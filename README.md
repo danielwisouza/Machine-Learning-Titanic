@@ -15,7 +15,7 @@
  
 Projeto criado com intuído de testar conhecimento durando o Bootcamp Banco Carrefour Data Engineer.
 
-#### 2.2.	Tecnologias utilizadas
+#### 2.0	Tecnologias utilizadas
 Para o desenvolvimento desta aplicação foram utilizadas as tecnologias.
 
 • Python;

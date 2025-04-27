@@ -1,23 +1,26 @@
-# Projeto Machine Learning com dados Titanic
+# Machine Learning - Titanic Project
 
-## Pacotes Necessários:
+![Pandas](https://img.shields.io/badge/Pandas-Python%20Data%20Analysis%20Library-yellow)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-Cloud%20Environment-blue)
 
-- import pandas as pd 
-- import numpy as np
-- from sklearn.ensemble import RandomForestClassifier
-- from sklearn.model_selection import train_test_split 
+## 1. Introduction
 
-## Dados de dados utilizado Titanic
+This project was created to practice knowledge during the Banco Carrefour Data Engineer Bootcamp.  
+The goal is to apply machine learning techniques on the Titanic dataset to predict survival outcomes.
 
-### Link: https://www.kaggle.com/
+## 2. Technologies Used
 
-## 1. INTRODUÇÃO
- 
-Projeto criado com intuído de testar conhecimento durando o Bootcamp Banco Carrefour Data Engineer.
+- Python
+- Google Colab: [Link](https://colab.research.google.com/notebooks/welcome.ipynb?hl=pt-BR)
 
-#### 2.0	Tecnologias utilizadas
-Para o desenvolvimento desta aplicação foram utilizadas as tecnologias.
+## 3. Required Packages
 
-• Python;
+```python
+import pandas as pd
+import numpy as np
+from sklearn.ensemble import RandomForestClassifier
+from sklearn.model_selection import train_test_split
+```
+## 4. Dataset
 
-• Ambiente em Cloud da Google Colab; https://colab.research.google.com/notebooks/welcome.ipynb?hl=pt-BR
+- Titanic Dataset: Kaggle
